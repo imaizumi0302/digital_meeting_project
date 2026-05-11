@@ -1,4 +1,4 @@
-# デジタル軍議システム (Persona-based Discussion Simulator)
+# デジタル会議システム (Persona-based Discussion Simulator)
 
 Ollama（ローカルLLM）を活用し、複数の異なるペルソナを持つAIエージェント間で多角的な議論を行わせるシミュレーションアプリです。
 
